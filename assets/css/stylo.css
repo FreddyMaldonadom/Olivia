@@ -14,3 +14,32 @@ header {
     background-size: cover;
     height: 880px;
 }
+
+
+/*section tres columnas e iconos*/
+
+section{     
+          font-family:raleway;
+
+}
+.text-center{ 
+             font-weight:bold;
+
+}
+section h2  {
+
+           padding: 50px;
+}
+
+h4{ font-weight: bold;
+    padding: 30px;
+    
+
+}
+ .section p { 
+    padding: 10px
+
+}
+
+
+
