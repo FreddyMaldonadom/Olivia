@@ -16,10 +16,10 @@ header {
 }
 
 h1 {
-text-align: right;
-font: normal normal bold 70px/82px Raleway;
-color: #FFFFFF;
-opacity: 1;
+    text-align: right;
+    font: normal normal bold 70px/82px Raleway;
+    color: #FFFFFF;
+    opacity: 1;
 }
 
 .parrafo1{
@@ -39,4 +39,27 @@ opacity: 1;
 .boton2{
     background-color: #17A2B8;
     border-color: #17A2B8;
+}
+
+/*section tres columnas e iconos*/
+
+section{     
+    font-family:raleway;
+
+}
+.text-center{ 
+    font-weight:bold;
+
+}
+section h2  {
+    padding: 50px;
+}
+
+h4{ 
+    font-weight: bold;
+    padding: 30px;
+}
+.section p { 
+    padding: 10px
+
 }
