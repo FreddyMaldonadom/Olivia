@@ -41,6 +41,11 @@ h1 {
     border-color: #17A2B8;
 }
 
+.boton3{
+    color: #17A2B8;
+    border-color: #17A2B8;
+}
+
 /*section tres columnas e iconos*/
 
 section{     
@@ -61,4 +66,8 @@ h4{
 }
 .section p { 
     padding: 10px;
+}
+
+.sectionTrabajos{
+    background-color: #17A2B8;
 }
