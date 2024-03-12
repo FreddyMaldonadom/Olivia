@@ -1,41 +1,16 @@
 .navbar{
     background-color: #373A3C!important;
     padding: 10px!important;
-    margin: 0!important;
     text-align: left!important;
 }
-.nav-link{
-    color: white;
+
+body {
+    font-family: 'Raleway', sans-serif;
 }
 
-
-/*banner*/
-.bg-hero {
-	width: 100%;
-}
-
-/*CARD*/
-.container-fluid{
-    padding: 5rem!important;
-}
-.btn{
-    margin: 2rem!important;
-    padding: 1rem!important;
-}
-.card{
-    background-color: #17A2B8!important;
-    margin-top: 4rem!important;
-}
-.card-body{
-    background-color: white;
-}
-
-
-
-h1{
-    color: white!important;
-    padding: 5rem!important;
-}
-.p{
-    color: white!important;
+header {
+    background-image: url("../img/bg-hero.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 880px;
 }
