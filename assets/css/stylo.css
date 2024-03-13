@@ -1,4 +1,4 @@
-.navbar{
+.nav{
     background-color: #373A3C!important;
     padding: 10px!important;
     text-align: left!important;
@@ -8,50 +8,15 @@ body {
     font-family: 'Raleway', sans-serif !important;
 }
 
-/*CARD*/
-
-.card{
-    background-color: #17A2B8;
-   }
-.card-body{
-    background-color: white;
-}
-
-.fw-bold{
-    padding: 4rem;
-    color: white;
-}
-
-.card-img-top{
-    width: auto;
-    height: 225px;
-    max-height: 225px;
-}
-.row{
- display: flex;
- padding-bottom: 2rem;
-}
-.btn{
-    border-color: #56C0E0;
-    color: #56C0E0;
-}
-.card-title{
-    font-weight: 700;
-    color: #373A3C;
-    font-size: 26px;
-}
-.card-text{
-    color: #373A3C;
-    font-size: 16px;
-}
-
 header {
     background-image: url("../img/bg-hero.jpg") ;
     background-repeat: no-repeat;
     background-size: cover;
     height: 880px;
 }
-
+.nav-link{
+    color: #FFFFFF;
+}
 h1 {
     text-align: right;
     font: normal normal bold 70px/82px Raleway;
@@ -111,4 +76,20 @@ h4{
 
 footer {
     background-color: #0F0F0F;
+}
+
+/*formlario*/
+.titleh1 {
+        text-align: right;
+        font: normal normal bold 50px Raleway;
+        color: #000;
+        opacity: 1;
+        text-align: center;
+    }
+.texp{
+    font-family: 'Raleway', sans-serif;
+    font: 16px;
+    width: 60%;
+    font-weight: 400;
+    justify-content: center;
 }
