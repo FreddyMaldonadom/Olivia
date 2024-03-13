@@ -8,6 +8,43 @@ body {
     font-family: 'Raleway', sans-serif;
 }
 
+/*CARD*/
+
+.card{
+    background-color: #17A2B8;
+   }
+.card-body{
+    background-color: white;
+}
+
+.fw-bold{
+    padding: 4rem;
+    color: white;
+}
+
+.card-img-top{
+    width: auto;
+    height: 225px;
+    max-height: 225px;
+}
+.row{
+ display: flex;
+ padding-bottom: 2rem;
+}
+.btn{
+    border-color: #56C0E0;
+    color: #56C0E0;
+}
+.card-title{
+    font-weight: 700;
+    color: #373A3C;
+    font-size: 26px;
+}
+.card-text{
+    color: #373A3C;
+    font-size: 16px;
+}
+
 header {
     background-image: url("../img/bg-hero.jpg") ;
     background-repeat: no-repeat;
