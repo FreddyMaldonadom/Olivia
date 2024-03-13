@@ -5,7 +5,7 @@
 }
 
 body {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Raleway', sans-serif !important;
 }
 
 /*CARD*/
@@ -50,4 +50,65 @@ header {
     background-repeat: no-repeat;
     background-size: cover;
     height: 880px;
+}
+
+h1 {
+    text-align: right;
+    font: normal normal bold 70px/82px Raleway;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.parrafo1{
+    font-family: 'Raleway', sans-serif;   
+}
+
+.tituloComida{
+    padding-top: 20rem !important;
+    font-family: 'Raleway', sans-serif !important;
+}
+
+.boton1{
+    color: white;
+    border-color: #17A2B8;
+}
+
+.boton2{
+    background-color: #17A2B8;
+    border-color: #17A2B8;
+}
+
+.boton3{
+    color: #17A2B8;
+    border-color: #17A2B8;
+}
+
+/*section tres columnas e iconos*/
+
+section{     
+    font-family:raleway;
+
+}
+.text-center{ 
+    font-weight:bold;
+
+}
+section h2  {
+    padding: 50px;
+}
+
+h4{ 
+    font-weight: bold;
+    padding: 30px;
+}
+.section p { 
+    padding: 10px;
+}
+
+.sectionTrabajos{
+    background-color: #17A2B8;
+}
+
+footer {
+    background-color: #0F0F0F;
 }
